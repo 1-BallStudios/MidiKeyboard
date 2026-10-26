@@ -1,5 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-SK6812,3,,$0.00,$0.00,
+SK6812,1,Aliexpress,$1.09,$1.09,https://www.aliexpress.us/item/2251832290002435.html?spm=a2g0o.productlist.main.4.2f9db4d0p1pOiJ&aem_p4p_detail=202610251954051893801826265700001549517&algo_pvid=a7b7fd6f-c868-4382-8cc9-abaf83b16e79&algo_exp_id=a7b7fd6f-c868-4382-8cc9-abaf83b16e79-3&pdp_ext_f=%7B%22order%22%3A%228032%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%218.11%211.09%21%21%218.11%211.09%21%402101ea8f17929832450795915e0af6%2110000015281489017%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ae4d5a5fc%3Bm03_new_user%3A-29895%3BpisId%3A5000000218165380&curPageLogUid=2KyyDnTJQQZY&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A32476317187%7C_p_origin_prod%3A&search_p4p_id=202610251954051893801826265700001549517_1
 Conn_01x07,1,,$0.00,$0.00,
 R_Potentiometer_MountingPin,2,,$0.00,$0.00,
 SW_Push,3,,$0.00,$0.00,
