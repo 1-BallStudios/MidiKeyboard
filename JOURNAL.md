@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvg2odw901kv01rp08gyl4dw). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A custom MIDI Keyboard with switches, sliders, rotary encoders, neopixels and capacitive touch.
+> A custom MIDI Keyboard with switches, sliders, rotary encoders, neopixels and capacitive touch. I think it turned out pretty well.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
