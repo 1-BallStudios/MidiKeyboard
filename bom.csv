@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D4, D5, D6",LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm,3,SK6812,
+J1,Capacitive Keys,1,Conn_01x07,
+"RV1, RV2",Potentiometer_Bourns_PTA1543_Single_Slide,2,R_Potentiometer_MountingPin,
+"SW1, SW2, SW3",Kailh Choc Low-Profile Switches,3,SW_Push,
+SW4,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch_MP,
+U1,Waveshare ESP32-S3-Zero,1,Waveshare ESP32-S3-ZERO,
