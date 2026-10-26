@@ -70,7 +70,7 @@ I again had to do quite a bit, along with adding some more hours for not logging
 
 **2h**
 
-OK yeah i will spend a bit more time working on it because of the 3D Printer goal so I'm doing it now. I still haven't really gotten the image thing dealt with, but I already posted it to the github respritory so can't change it now! Now I have to deal with cost stuff.
+OK yeah i will spend a bit more time working on it because of the 3D Printer goal so I'm doing it now. I still haven't really gotten the image thing dealt with, but I already posted it to the github respritory so can't change it now! Now I have to deal with cost stuff. UGH I HAVE TO MAKE HARDLY PRODUCTIVE SESSIONS BECAUSE I COMPLETE WORK TOO FAST
 
 ![Screenshot 2026-10-24 152043](https://halflife.hackclub-assets.com/sessions/uieyT1fRQrszPFp1vgkVEujJw1DfYLBe/37e313b0b14cc1020eff0e18b85edd43b7272c84ce6247a8f8ff4cf41168a008.png)
 
